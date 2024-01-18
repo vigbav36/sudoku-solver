@@ -1,4 +1,3 @@
-# sudoku_solver
+# Sudoku Solver
 
-
-Can solve an incomplete sudoku board
+A java application that generates a valid solution for an incomplete sudoku puzzle if one exists
